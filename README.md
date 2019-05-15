@@ -1,4 +1,4 @@
-# matematicki_softver
+# Matematički softver
 
 Napisati Jupyter bilježnicu u Pythonu o jednoj ili više matematičkih (u širem smislu) tema, koja treba sadržavati:
 
